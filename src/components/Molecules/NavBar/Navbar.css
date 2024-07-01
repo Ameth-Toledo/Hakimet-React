@@ -1,0 +1,31 @@
+.topbar {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #FFAB26;
+  }
+  
+  .topbar .logo {
+    width: 130px;
+    height: auto;
+    margin-left: 5px;
+  }
+  
+  .topbar .login-btn {
+    background-color: #0800ff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 20px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+  }
+  
+  .topbar .login-btn img.login-icon {
+    margin-right: 10px;
+    width: 30px;
+    height: auto;
+  }
